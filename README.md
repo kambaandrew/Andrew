@@ -1,4 +1,5 @@
 # Andrew
+It is assumed that the project directory is on c-drive
 Class Assignment
 Lunch cmd 
 change directory to <guiChatApp>
